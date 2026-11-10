@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Applications</key>
+	<dict/>
+	<key>Build Version</key>
+	<string>24A437</string>
+	<key>Device Name</key>
+	<string>Evan’s iPhone</string>
+	<key>Display Name</key>
+	<string>Evan’s iPhone</string>
+	<key>GUID</key>
+	<data>
+	qBoZ7gKnSLarK7t+xgqXKg==
+	</data>
+	<key>Installed Applications</key>
+	<array/>
+	<key>Product Type</key>
+	<string>iPhone17,3</string>
+	<key>Product Version</key>
+	<string>27.0</string>
+	<key>Serial Number</key>
+	<string>CYVJ1HPVYJ</string>
+	<key>Target Identifier</key>
+	<string>00008140-001E15201143401C</string>
+	<key>Target Type</key>
+	<string>Device</string>
+	<key>Unique Identifier</key>
+	<string>00008140-001E15201143401C</string>
+	<key>iTunes Files</key>
+	<dict/>
+	<key>iTunes Version</key>
+	<string>10.0.1</string>
+</dict>
+</plist>
